@@ -7,7 +7,7 @@ const bot = new TelegramBot('6715608703:AAEnnYKoFV9u1SjWcOiNFQPjgFqGSrlfGP0');
 
 const url = 'https://www.rico.ge/ka';
 const channelId = '-1002100882829';
-const intervalTime = 5000;
+const intervalTime = 60000;
 
 const options = {
     timeZone: 'Asia/Tbilisi',
